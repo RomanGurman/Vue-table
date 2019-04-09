@@ -1,4 +1,4 @@
-# vue
+# vue-table
 
 > A Vue.js project
 
